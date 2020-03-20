@@ -1,4 +1,5 @@
 # tbase
+本项目已经迁移到: https://github.com/tradingAI/tbase
 
 基于强化学习的交易算法Baselines(Pytorch实现). 旨在提供一个在中国股市上可复现的算法Baselines.
 
